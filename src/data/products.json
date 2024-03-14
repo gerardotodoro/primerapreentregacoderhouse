@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "status": 1,
+		"title": "PLATO DE MADERA",
+		"description": "PLATO DE MADERA.",
+		"price": "$8.500",
+		"thumbnails": [],
+		"code": "product_001",
+		"stock": "25",
+        "category": "madera"
+    },
+    {
+        "id": 2,
+		"title": "TABLA DE MADERA",
+		"description": "TABLA DE MADERA.",
+		"price": "15.000",
+		"thumbnails": [],
+		"code": "product_02",
+		"stock": "30",
+        "status": 1,
+        "category": "madera"
+    },
+    {
+        "id": 3,
+		"title": "VASO DE MADERA",
+		"description": "VASO DE MADERA.",
+		"price": "9.000",
+		"thumbnails": [],
+		"code": "product_03",
+		"stock": "30",
+        "status": 1,
+        "category": "madera"
+    },
+    {
+        "id": 4,
+		"title": "CUENCO DE MADERA",
+		"description": "CUENCO DE MADERA.",
+		"price": "6.800",
+		"thumbnails": [],
+		"code": "product_04",
+		"stock": "30",
+        "status": 1,
+        "category": "madera"
+    },
+    {
+        "id": 5,
+		"title": "ZOCALO DE MADERA",
+		"description": "ZOCALO DE MADERA",
+		"price": "2.000",
+		"thumbnails": [],
+		"code": "product_05",
+		"stock": "2500",
+        "status": 1,
+        "category": "madera"
+    },
+    {
+        "id": 6,
+		"title": "MESADA DE MADERA",
+		"description": "MESADA DE MADERA.",
+		"price": "1.500.000",
+		"thumbnails": [],
+		"code": "product_06",
+		"stock": "15",
+        "status": 1,
+        "category": "madera"
+    },
+    {
+        "id": 7,
+		"title": "CUCHARA DE MADERA",
+		"description": "CUCHARA DE MADERA ",
+		"price": "3.500",
+		"thumbnails": [],
+		"code": "product_07",
+		"stock": "60",
+        "status": 1,
+        "category": "madera"
+    },
+    {
+        "id": 8,
+		"title": "SILLON DE MADERA",
+		"description": " SILLON DE MADERA.",
+		"price": "30.000",
+		"thumbnails": [],
+		"code": "product_08",
+		"stock": "20",
+        "status": 1,
+        "category": "madera"
+    },
+    {
+        "id": 9,
+		"title": "MESA PLEGABLE DE MADERA",
+		"description": "MESA PLEGABLE DE MADERA.",
+		"price": "25.000",
+		"thumbnails": [],
+		"code": "product_09",
+		"stock": "30",
+        "status": 1,
+        "category": "madera"
+    },
+    {
+        "id": 10,
+		"title": "CERCA DE MADERA",
+		"description": " CERCA DE MADERA.",
+		"price": "150.000",
+		"thumbnails": [],
+		"code": "product_10",
+		"stock": "150",
+        "status": 1,
+        "category": "madera"
+    }
+  ]
