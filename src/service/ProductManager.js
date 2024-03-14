@@ -56,7 +56,7 @@ export class ProductManager {
     
 
     if (this.products.find((product) => product.code === code)) {
-      throw new Error("El campo code del producto ya existe, deberia cambiar el nombre.");
+      throw new Error("ya existe, deberia cambiar el nombre.");
     }
 
     const newProduct = {
